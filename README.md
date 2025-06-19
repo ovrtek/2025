@@ -12,7 +12,10 @@ HOW TO PLAY:
 Have fun trying out all the combat mechanics to bust as many viruses as you can until you get bored! No pressure, this is just a tech demo after all!
 
 CONTROLS:
-- WASD to move your AV
+- W to move your AV forward
+- A to strafe your AV left
+- S to move your AV backward
+- D to strafe your AV right
 - Dash by tapping L x2 quickly
 - J to use your spark attack
 - K to use your melee attack
@@ -22,7 +25,7 @@ CONTROLS:
 - O to activate your special melee
 - ; to search for targets
 - Space to activate your extreme burst
-- Step by tapping WASD x2 quickly
+- Step by tapping W/A/S/D x2 quickly
 - Guard by tapping S then W quickly
 - Transform by stepping while holding L
 - Esc to quit the game
