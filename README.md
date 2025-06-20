@@ -5,7 +5,7 @@ This happens to be my first game project since I learned how to program so I cou
 
 Thus, I came up with the idea for a "Spectacle Fighter Armored Core" style game featuring the cutting edge world of cyber spies. To realize this vision, I bought some tutorials covering Blender, Godot and FL Studio. Then after a decade of planning with a few months of coding this is the result!
 
-To put it bluntly, all I did was take the inputs of Rising Thunder and apply them to the mechanics of Gundam Extreme Versus to see if it works for the PC. So just try out combos until you get bored, this is just a tech demo after all!
+To put it bluntly, all I did was take the inputs of Rising Thunder and apply them to the mechanics of Gundam Extreme Versus to see if it works for the PC. So you can try out combos until you get bored, this is just a tech demo after all!
 
 CONTROLS:
 - W to move your AV forward
