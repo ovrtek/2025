@@ -1,6 +1,5 @@
 # Cybercore 2025
 
-STORY:
 This happens to be my first game project since I learned how to program so I could keep my promise of making a new kind of Armored Core spiritual successor for the mech community I've belonged to for ten years!
 
 Thus, I came up with the idea for a "Spectacle Fighter Armored Core" style game featuring the cutting edge world of cyber spies. To realize this vision, I bought some tutorials covering Blender, Godot and FL Studio. Then after a decade of planning with a few months of coding this is the result!
