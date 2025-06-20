@@ -1,5 +1,4 @@
 # Cybercore 2025
-Anti-Virus Robot Action
 
 STORY:
 This happens to be my first game project since I learned how to program so I could keep my promise of making a new kind of Armored Core spiritual successor for the mech community I've belonged to for ten years!
